@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  bot:
+    build: .
+    container_name: rental_bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    depends_on:
+      - db
+  db:
+    image: postgres:16-alpine
+    container_name: rental_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: rental_bot
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: M130861m
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+volumes:
+  postgres_data:

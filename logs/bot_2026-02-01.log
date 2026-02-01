@@ -2,3 +2,43 @@
 2026-02-01 15:49:21 | INFO     | database.database:close:82 | Соединение с базой данных закрыто
 2026-02-01 15:49:21 | INFO     | __main__:on_shutdown:72 | Соединение с базой данных закрыто
 2026-02-01 15:49:21 | INFO     | __main__:<module>:143 | Бот остановлен пользователем
+2026-02-01 16:04:35 | INFO     | __main__:main:114 | ==================================================
+2026-02-01 16:04:35 | INFO     | __main__:main:115 | RENTAL BOT - Бот аренды вещей
+2026-02-01 16:04:35 | INFO     | __main__:main:116 | ==================================================
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: start
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: ad_create
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: ad_search
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: ad_manage
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: moderation
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: feedback
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: notifications
+2026-02-01 16:04:35 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: admin
+2026-02-01 16:04:37 | INFO     | __main__:main:126 | Запуск в режиме long polling...
+2026-02-01 16:04:37 | INFO     | __main__:on_startup:55 | Бот запускается...
+2026-02-01 16:04:37 | INFO     | database.database:create_tables:71 | Таблицы базы данных созданы
+2026-02-01 16:04:37 | INFO     | __main__:on_startup:59 | База данных инициализирована
+2026-02-01 16:04:37 | INFO     | __main__:on_startup:63 | Бот @diploma_projectbot успешно запущен!
+2026-02-01 16:25:49 | INFO     | __main__:on_shutdown:68 | Бот останавливается...
+2026-02-01 16:25:49 | INFO     | database.database:close:82 | Соединение с базой данных закрыто
+2026-02-01 16:25:49 | INFO     | __main__:on_shutdown:72 | Соединение с базой данных закрыто
+2026-02-01 16:25:50 | INFO     | __main__:<module>:143 | Бот остановлен пользователем
+2026-02-01 16:33:45 | INFO     | __main__:main:114 | ==================================================
+2026-02-01 16:33:45 | INFO     | __main__:main:115 | RENTAL BOT - Бот аренды вещей
+2026-02-01 16:33:45 | INFO     | __main__:main:116 | ==================================================
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: start
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: ad_create
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: ad_search
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: ad_manage
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: moderation
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: feedback
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: notifications
+2026-02-01 16:33:46 | DEBUG    | __main__:create_dispatcher:101 | Зарегистрирован роутер: admin
+2026-02-01 16:33:48 | INFO     | __main__:main:126 | Запуск в режиме long polling...
+2026-02-01 16:33:48 | INFO     | __main__:on_startup:55 | Бот запускается...
+2026-02-01 16:33:48 | INFO     | database.database:create_tables:71 | Таблицы базы данных созданы
+2026-02-01 16:33:48 | INFO     | __main__:on_startup:59 | База данных инициализирована
+2026-02-01 16:33:48 | INFO     | __main__:on_startup:63 | Бот @diploma_projectbot успешно запущен!
+2026-02-01 16:34:30 | INFO     | __main__:on_shutdown:68 | Бот останавливается...
+2026-02-01 16:34:30 | INFO     | database.database:close:82 | Соединение с базой данных закрыто
+2026-02-01 16:34:30 | INFO     | __main__:on_shutdown:72 | Соединение с базой данных закрыто
+2026-02-01 16:34:30 | INFO     | __main__:<module>:143 | Бот остановлен пользователем
